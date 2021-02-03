@@ -1,6 +1,9 @@
 <template>
   <div class="contents-table">
-    <h2>Table Of Contents</h2>
+    <a href="https://openbylaws.org.za/" class="header">
+      <img src="../assets/logo-md-inv.png" alt="open-bylaws-logo" />
+      <span>Open By-laws</span>
+    </a>
     <ul class="entire-table">
       <li><a href="/">Entire By-law</a></li>
       <li class="preamble"><a href="#preamble">Preamble</a></li>
@@ -16,9 +19,10 @@
 </template>
 
 <script>
+import { chapterData } from '@/store.js';
+
 export default {
   name: 'TableOfContents',
-  props: ["contentList"],
   data(){ 
     return{
       expand: {
@@ -29,7 +33,8 @@ export default {
         chp_5: false,
         chp_6: false,
         chp_7: false
-      }
+      },
+      contentList: chapterData.contentList
     }
   },
   methods: {
@@ -45,9 +50,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h2 {
-  margin: 50px 0;
-}
 .chapter-content {
   margin: 40px 0;
 }
@@ -69,6 +71,16 @@ ul {
   height: 100vh;
   position: fixed;
 }
+.header {
+  display: flex;
+  height: 50px;
+  margin-top: 30px;
+}
+.header span {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
 .expand  {
   margin-right: 15px;
   display: inline-block;
@@ -82,7 +94,7 @@ ul {
   height: auto;
   overflow-y: auto;
   max-height: calc(100vh - 9rem);
-  margin-top: 20px;
+  margin-top: 60px;
 }
 .content-children {
   margin: 20px;
