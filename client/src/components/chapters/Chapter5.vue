@@ -1,174 +1,1727 @@
 <template>
-    <section class="akn-chapter" id="chp_5" data-eid="chp_5"><h2>Chapter 5<br>Animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="chp_5__term_1" data-eid="chp_5__term_1" data-original-title="" title="">poultry</span>
-                                                                                                                                                                                              </h2>
-                                                                                                                                                                                              <section class="akn-section" id="sec_22" data-eid="sec_22"><h3>22. Animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_22__term_1" data-eid="sec_22__term_1" data-original-title="" title="">poultry</span>
-                                                                                                                                                                                                </h3>
-                                                                                                                                                                                                <span class="akn-hcontainer" id="sec_22__hcontainer_1" data-eid="sec_22__hcontainer_1" data-name="hcontainer">
-                                                                                                                                                                                                  <span class="akn-content">
-                                                                                                                                                                                                    <span class="akn-p">In order to promote public health no <span class="akn-term term-link" data-refersto="#term-person" id="sec_22__hcontainer_1__term_1" data-eid="sec_22__hcontainer_1__term_1" data-original-title="" title="">person</span> shall keep or <span class="akn-term term-link" data-refersto="#term-permit" id="sec_22__hcontainer_1__term_2" data-eid="sec_22__hcontainer_1__term_2" data-original-title="" title="">permit</span> to be kept on any <span class="akn-term term-link" data-refersto="#term-premises" id="sec_22__hcontainer_1__term_3" data-eid="sec_22__hcontainer_1__term_3" data-original-title="" title="">premises</span> of property any <span class="akn-term term-link" data-refersto="#term-animal" id="sec_22__hcontainer_1__term_4" data-eid="sec_22__hcontainer_1__term_4" data-original-title="" title="">animal</span> or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_22__hcontainer_1__term_5" data-eid="sec_22__hcontainer_1__term_5" data-original-title="" title="">poultry</span> without the permission of the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_22__hcontainer_1__term_6" data-eid="sec_22__hcontainer_1__term_6" data-original-title="" title="">Council</span>.</span>
-                                                                                                                                                                                                  </span>
-                                                                                                                                                                                                </span></section><section class="akn-section" id="sec_23" data-eid="sec_23"><h3>23. Permits</h3>
-                                                                                                                                                                                                  <section class="akn-subsection" id="sec_23__subsec_1" data-eid="sec_23__subsec_1"><span class="akn-num">(1)</span><span class="akn-content">
-                                                                                                                                                                                                      <span class="akn-p">For the purposes of promoting public health and restricting public nuisances, the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_23__subsec_1__term_1" data-eid="sec_23__subsec_1__term_1" data-original-title="" title="">Council</span> may from time to time determine the number if animals or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_23__subsec_1__term_2" data-eid="sec_23__subsec_1__term_2" data-original-title="" title="">poultry</span> that may be kept per unit area and the areas within the which such animals or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_23__subsec_1__term_3" data-eid="sec_23__subsec_1__term_3" data-original-title="" title="">poultry</span> shall be prohibited.</span>
-                                                                                                                                                                                                    </span></section><section class="akn-subsection" id="sec_23__subsec_2" data-eid="sec_23__subsec_2"><span class="akn-num">(2)</span><span class="akn-content">
-                                                                                                                                                                                                        <span class="akn-p">The <span class="akn-term term-link" data-refersto="#term-Council" id="sec_23__subsec_2__term_1" data-eid="sec_23__subsec_2__term_1" data-original-title="" title="">Council</span> may from time to time, determine the kinds of animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_23__subsec_2__term_2" data-eid="sec_23__subsec_2__term_2" data-original-title="" title="">poultry</span> for which a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_23__subsec_2__term_3" data-eid="sec_23__subsec_2__term_3" data-original-title="" title="">permit</span> is required and the relevant application fee and annual fee for such <span class="akn-term term-link" data-refersto="#term-permit" id="sec_23__subsec_2__term_4" data-eid="sec_23__subsec_2__term_4" data-original-title="" title="">permit</span>. Applications for such permits must be made on the prescribed form made available by the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_23__subsec_2__term_5" data-eid="sec_23__subsec_2__term_5" data-original-title="" title="">Council</span> for such purposes.</span>
-                                                                                                                                                                                                      </span></section><section class="akn-subsection" id="sec_23__subsec_3" data-eid="sec_23__subsec_3"><span class="akn-num">(3)</span><span class="akn-content">
-                                                                                                                                                                                                          <span class="akn-p">Permits issued in terms hereof are not transferable and shall not be valid for the specfic property in respect of which the application was made.</span>
-                                                                                                                                                                                                        </span></section></section><section class="akn-section" id="sec_24" data-eid="sec_24"><h3>24. </h3>
-                                                                                                                                                                                                          <section class="akn-subsection" id="sec_24__subsec_1" data-eid="sec_24__subsec_1"><span class="akn-num">(1)</span><span class="akn-content">
-                                                                                                                                                                                                              <span class="akn-p">The <span class="akn-term term-link" data-refersto="#term-Council" id="sec_24__subsec_1__term_1" data-eid="sec_24__subsec_1__term_1" data-original-title="" title="">Council</span> may require an application in terms of section 23 (1) to be accompanied by a detailed site plan indicating all existing or proposed structures and fences on the property for which a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_24__subsec_1__term_2" data-eid="sec_24__subsec_1__term_2" data-original-title="" title="">permit</span> is required.</span>
-                                                                                                                                                                                                            </span></section><section class="akn-subsection" id="sec_24__subsec_2" data-eid="sec_24__subsec_2"><span class="akn-num">(2)</span><span class="akn-content">
-                                                                                                                                                                                                                <span class="akn-p">The <span class="akn-term term-link" data-refersto="#term-Council" id="sec_24__subsec_2__term_1" data-eid="sec_24__subsec_2__term_1" data-original-title="" title="">Council</span> may require detailed plans and specifications of structures wherein it is proposed to keep animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_24__subsec_2__term_2" data-eid="sec_24__subsec_2__term_2" data-original-title="" title="">poultry</span>, in order to evaluate whether or not to grant a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_24__subsec_2__term_3" data-eid="sec_24__subsec_2__term_3" data-original-title="" title="">permit</span> applied for in terms of section 23 (2).</span>
-                                                                                                                                                                                                              </span></section><section class="akn-subsection" id="sec_24__subsec_3" data-eid="sec_24__subsec_3"><span class="akn-num">(3)</span><span class="akn-content">
-                                                                                                                                                                                                                  <span class="akn-p">Notwithstanding anything to the contrary contained in the By-law, the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_24__subsec_3__term_1" data-eid="sec_24__subsec_3__term_1" data-original-title="" title="">Council</span> may refuse to approve an application or grant approval subject to specific conditions if, in its opinion, the property owing to its location, siting or geographical features or size, is unsuitable for the keeping of animals or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_24__subsec_3__term_2" data-eid="sec_24__subsec_3__term_2" data-original-title="" title="">poultry</span>;</span>
-                                                                                                                                                                                                                </span></section><section class="akn-subsection" id="sec_24__subsec_4" data-eid="sec_24__subsec_4"><span class="akn-num">(4)</span><span class="akn-content">
-                                                                                                                                                                                                                    <span class="akn-blockList" id="sec_24__subsec_4__list_1" data-eid="sec_24__subsec_4__list_1">
-                                                                                                                                                                                                                      <span class="akn-listIntroduction">No <span class="akn-term term-link" data-refersto="#term-structure" id="sec_24__subsec_4__list_1__term_1" data-eid="sec_24__subsec_4__list_1__term_1" data-original-title="" title="">structure</span> that accommodates animals shall be sited-</span>
-                                                                                                                                                                                                                      <span class="akn-item" id="sec_24__subsec_4__list_1__item_a" data-eid="sec_24__subsec_4__list_1__item_a">
-                                                                                                                                                                                                                        <span class="akn-num">(a)</span>
-                                                                                                                                                                                                                        <span class="akn-p">within one and half metres of any boundry of the erf which abuts another residential erf;</span>
-                                                                                                                                                                                                                      </span>
-                                                                                                                                                                                                                      <span class="akn-item" id="sec_24__subsec_4__list_1__item_b" data-eid="sec_24__subsec_4__list_1__item_b">
-                                                                                                                                                                                                                        <span class="akn-num">(b)</span>
-                                                                                                                                                                                                                        <span class="akn-p">within six metre of any boundry of the erf which abuts any road or public open space; and</span>
-                                                                                                                                                                                                                      </span>
-                                                                                                                                                                                                                      <span class="akn-item" id="sec_24__subsec_4__list_1__item_c" data-eid="sec_24__subsec_4__list_1__item_c">
-                                                                                                                                                                                                                        <span class="akn-num">(c)</span>
-                                                                                                                                                                                                                        <span class="akn-p">within four and half metres from any dwelling, servants quarters, inhabited outbuilding and shop or building where food is processed.</span>
-                                                                                                                                                                                                                      </span>
-                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                  </span></section><section class="akn-subsection" id="sec_24__subsec_5" data-eid="sec_24__subsec_5"><span class="akn-num">(5)</span><span class="akn-content">
-                                                                                                                                                                                                                      <span class="akn-p">Where a <span class="akn-term term-link" data-refersto="#term-structure" id="sec_24__subsec_5__term_1" data-eid="sec_24__subsec_5__term_1" data-original-title="" title="">structure</span> in which animals will be kept forms part of an outbuilding used for human habitation, such <span class="akn-term term-link" data-refersto="#term-structure" id="sec_24__subsec_5__term_2" data-eid="sec_24__subsec_5__term_2" data-original-title="" title="">structure</span> must be sited at least four and half metres from such habitable room and must not be under the same roof as the habitable room.</span>
-                                                                                                                                                                                                                    </span></section><section class="akn-subsection" id="sec_24__subsec_6" data-eid="sec_24__subsec_6"><span class="akn-num">(6)</span><span class="akn-content">
-                                                                                                                                                                                                                        <span class="akn-blockList" id="sec_24__subsec_6__list_1" data-eid="sec_24__subsec_6__list_1">
-                                                                                                                                                                                                                          <span class="akn-listIntroduction">No <span class="akn-term term-link" data-refersto="#term-structure" id="sec_24__subsec_6__list_1__term_1" data-eid="sec_24__subsec_6__list_1__term_1" data-original-title="" title="">structure</span> in which <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_24__subsec_6__list_1__term_2" data-eid="sec_24__subsec_6__list_1__term_2" data-original-title="" title="">poultry</span> is kept shall be sited:</span>
-                                                                                                                                                                                                                          <span class="akn-item" id="sec_24__subsec_6__list_1__item_a" data-eid="sec_24__subsec_6__list_1__item_a">
-                                                                                                                                                                                                                            <span class="akn-num">(a)</span>
-                                                                                                                                                                                                                            <span class="akn-p">within one and half metres from any boundry of a residential erf; and</span>
-                                                                                                                                                                                                                          </span>
-                                                                                                                                                                                                                          <span class="akn-item" id="sec_24__subsec_6__list_1__item_b" data-eid="sec_24__subsec_6__list_1__item_b">
-                                                                                                                                                                                                                            <span class="akn-num">(b)</span>
-                                                                                                                                                                                                                            <span class="akn-p">within one and half metres from any dwelling, servants quarters, inhabited outbuilding and shop pr building where food is processed, sold or stored.</span>
-                                                                                                                                                                                                                          </span>
-                                                                                                                                                                                                                        </span>
-                                                                                                                                                                                                                      </span></section><section class="akn-subsection" id="sec_24__subsec_7" data-eid="sec_24__subsec_7"><span class="akn-num">(7)</span><span class="akn-content">
-                                                                                                                                                                                                                          <span class="akn-p">All structures in which animals or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_24__subsec_7__term_1" data-eid="sec_24__subsec_7__term_1" data-original-title="" title="">poultry</span> are kept shall be suitably screened from any street to the satisfaction of the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_24__subsec_7__term_2" data-eid="sec_24__subsec_7__term_2" data-original-title="" title="">Council</span>.</span>
-                                                                                                                                                                                                                        </span></section><section class="akn-subsection" id="sec_24__subsec_8" data-eid="sec_24__subsec_8"><span class="akn-num">(8)</span><span class="akn-content">
-                                                                                                                                                                                                                            <span class="akn-p">No <span class="akn-term term-link" data-refersto="#term-structure" id="sec_24__subsec_8__term_1" data-eid="sec_24__subsec_8__term_1" data-original-title="" title="">structure</span> in which <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_24__subsec_8__term_2" data-eid="sec_24__subsec_8__term_2" data-original-title="" title="">poultry</span> is kept shall have a height in excess of three and a half metres.</span>
-                                                                                                                                                                                                                          </span></section><section class="akn-subsection" id="sec_24__subsec_9" data-eid="sec_24__subsec_9"><span class="akn-num">(9)</span><span class="akn-content">
-                                                                                                                                                                                                                              <span class="akn-p">Notwithstanding the aforementioned provisions, the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_24__subsec_9__term_1" data-eid="sec_24__subsec_9__term_1" data-original-title="" title="">Council</span> may, after considering conditions particular to the property and on condition that no objection is received from adjoining and affected neighbours, waive any or all of the requirements of this chapter and impose other conditions if appropriate.</span>
-                                                                                                                                                                                                                            </span></section></section><section class="akn-section" id="sec_25" data-eid="sec_25"><h3>25. Storage of feed and manure, disposal of carcasses</h3>
-                                                                                                                                                                                                                              <section class="akn-subsection" id="sec_25__subsec_1" data-eid="sec_25__subsec_1"><span class="akn-num">(1)</span><span class="akn-content">
-                                                                                                                                                                                                                                  <span class="akn-p">All manure resulting from the keeping of animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_25__subsec_1__term_1" data-eid="sec_25__subsec_1__term_1" data-original-title="" title="">poultry</span> shall, pending removal from the <span class="akn-term term-link" data-refersto="#term-premises" id="sec_25__subsec_1__term_2" data-eid="sec_25__subsec_1__term_2" data-original-title="" title="">premises</span>, be stored under shelter in sealed fly-proof containers and disposed of on a regular basis as to prevent any nuisance from being created, provided that such disposal may not include composting on the <span class="akn-term term-link" data-refersto="#term-premises" id="sec_25__subsec_1__term_3" data-eid="sec_25__subsec_1__term_3" data-original-title="" title="">premises</span>, except on <span class="akn-term term-link" data-refersto="#term-agricultural_property" id="sec_25__subsec_1__term_4" data-eid="sec_25__subsec_1__term_4" data-original-title="" title="">agricultural property</span>.</span>
-                                                                                                                                                                                                                                </span></section><section class="akn-subsection" id="sec_25__subsec_2" data-eid="sec_25__subsec_2"><span class="akn-num">(2)</span><span class="akn-content">
-                                                                                                                                                                                                                                    <span class="akn-p">All feed should be stored in a rodent proof place, container or storeroom for the keeping of animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_25__subsec_2__term_1" data-eid="sec_25__subsec_2__term_1" data-original-title="" title="">poultry</span>.</span>
-                                                                                                                                                                                                                                  </span></section><section class="akn-subsection" id="sec_25__subsec_3" data-eid="sec_25__subsec_3"><span class="akn-num">(3)</span><span class="akn-content">
-                                                                                                                                                                                                                                      <span class="akn-p">The <span class="akn-term term-link" data-refersto="#term-premises" id="sec_25__subsec_3__term_1" data-eid="sec_25__subsec_3__term_1" data-original-title="" title="">premises</span> for the keeping of animals and <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_25__subsec_3__term_2" data-eid="sec_25__subsec_3__term_2" data-original-title="" title="">poultry</span> shall be kept in such condition as not to attract or provide harbourage for rodents.</span>
-                                                                                                                                                                                                                                    </span></section><section class="akn-subsection" id="sec_25__subsec_4" data-eid="sec_25__subsec_4"><span class="akn-num">(4)</span><span class="akn-content">
-                                                                                                                                                                                                                                        <span class="akn-p">Carcasses are to be disposed of at the <span class="akn-term term-link" data-refersto="#term-owner" id="sec_25__subsec_4__term_1" data-eid="sec_25__subsec_4__term_1" data-original-title="" title="">owner</span>’s expense and in a manner approved by the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_25__subsec_4__term_2" data-eid="sec_25__subsec_4__term_2" data-original-title="" title="">Council</span>.</span>
-                                                                                                                                                                                                                                      </span></section></section><section class="akn-section" id="sec_26" data-eid="sec_26"><h3>26. </h3>
-                                                                                                                                                                                                                                        <span class="akn-hcontainer" id="sec_26__hcontainer_1" data-eid="sec_26__hcontainer_1" data-name="hcontainer">
-                                                                                                                                                                                                                                          <span class="akn-content">
-                                                                                                                                                                                                                                            <span class="akn-p">The <span class="akn-term term-link" data-refersto="#term-Council" id="sec_26__hcontainer_1__term_1" data-eid="sec_26__hcontainer_1__term_1" data-original-title="" title="">Council</span> may from time to time determine that a fly and rodent proof manure store and feed store of adequate size and constructed of permanent material, is required on <span class="akn-term term-link" data-refersto="#term-premises" id="sec_26__hcontainer_1__term_2" data-eid="sec_26__hcontainer_1__term_2" data-original-title="" title="">premises</span> where animals are kept.</span>
-                                                                                                                                                                                                                                          </span>
-                                                                                                                                                                                                                                        </span></section><section class="akn-section" id="sec_27" data-eid="sec_27"><h3>27. Kennels and catteries</h3>
-                                                                                                                                                                                                                                          <span class="akn-hcontainer" id="sec_27__hcontainer_1" data-eid="sec_27__hcontainer_1" data-name="hcontainer">
-                                                                                                                                                                                                                                            <span class="akn-content">
-                                                                                                                                                                                                                                              <span class="akn-blockList" id="sec_27__hcontainer_1__list_1" data-eid="sec_27__hcontainer_1__list_1">
-                                                                                                                                                                                                                                                <span class="akn-listIntroduction">No <span class="akn-term term-link" data-refersto="#term-person" id="sec_27__hcontainer_1__list_1__term_1" data-eid="sec_27__hcontainer_1__list_1__term_1" data-original-title="" title="">person</span> shall keep a kennel or <span class="akn-term term-link" data-refersto="#term-cattery" id="sec_27__hcontainer_1__list_1__term_2" data-eid="sec_27__hcontainer_1__list_1__term_2" data-original-title="" title="">cattery</span> unless the following requirements are complied with a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_27__hcontainer_1__list_1__term_3" data-eid="sec_27__hcontainer_1__list_1__term_3" data-original-title="" title="">permit</span> has been obtained from the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_27__hcontainer_1__list_1__term_4" data-eid="sec_27__hcontainer_1__list_1__term_4" data-original-title="" title="">Council</span>:</span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_a" data-eid="sec_27__hcontainer_1__list_1__item_a">
-                                                                                                                                                                                                                                                  <span class="akn-num">(a)</span>
-                                                                                                                                                                                                                                                  <span class="akn-blockList" id="sec_27__hcontainer_1__list_1__item_a__list_1" data-eid="sec_27__hcontainer_1__list_1__item_a__list_1">
-                                                                                                                                                                                                                                                    <span class="akn-listIntroduction">Dogs and cats are kept in separate enclosures-</span>
-                                                                                                                                                                                                                                                    <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_a__list_1__item_i" data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_i">
-                                                                                                                                                                                                                                                      <span class="akn-num">(i)</span>
-                                                                                                                                                                                                                                                      <span class="akn-p">constructed of durable materials and with adequate access for cleaning, disinfecting and devermination purposes;</span>
-                                                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                                                    <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii" data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii">
-                                                                                                                                                                                                                                                      <span class="akn-num">(ii)</span>
-                                                                                                                                                                                                                                                      <span class="akn-p">with a floor constructed with concrete or other durable and impervious material brought to a smooth finish and graded to a channel one hundred millimetres wide, extending over the full width of the floor and situated within the enclosure, which channel shall drain into a gully connected to the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii__term_1" data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii__term_1" data-original-title="" title="">Council</span> sewer system by means of a pipe approved material with a minimum diameter of one hundred millimetres or to another approved disposal system;</span>
-                                                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                                                    <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_a__list_1__item_iii" data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_iii">
-                                                                                                                                                                                                                                                      <span class="akn-num">(iii)</span>
-                                                                                                                                                                                                                                                      <span class="akn-p">with a kerb one hundred and fifty millimetres high along the entire length of the channel referred to in subparagraph (ii), to prevent stormwater from such area from entering the channel;</span>
-                                                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                                                  </span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_b" data-eid="sec_27__hcontainer_1__list_1__item_b">
-                                                                                                                                                                                                                                                  <span class="akn-num">(b)</span>
-                                                                                                                                                                                                                                                  <span class="akn-blockList" id="sec_27__hcontainer_1__list_1__item_b__list_1" data-eid="sec_27__hcontainer_1__list_1__item_b__list_1">
-                                                                                                                                                                                                                                                    <span class="akn-listIntroduction">every enclosure referred to in paragraph (a) shall contain a roofed shelter for the accommodation of dogs and cats of which –</span>
-                                                                                                                                                                                                                                                    <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_b__list_1__item_i" data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_i">
-                                                                                                                                                                                                                                                      <span class="akn-num">(i)</span>
-                                                                                                                                                                                                                                                      <span class="akn-p">every wall shall be constructed of brick, stone, concrete or other durable material and shall have a smooth internal surface without cracks or open joints: and</span>
-                                                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                                                    <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii" data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii">
-                                                                                                                                                                                                                                                      <span class="akn-num">(ii)</span>
-                                                                                                                                                                                                                                                      <span class="akn-p">the floor shall be on concrete or other impervious and durable material brought to a smooth finish without cracks or open joints and the surface between the floor and the walls of a permanent <span class="akn-term term-link" data-refersto="#term-structure" id="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii__term_1" data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii__term_1" data-original-title="" title="">structure</span> shall be covered.</span>
-                                                                                                                                                                                                                                                    </span>
-                                                                                                                                                                                                                                                  </span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_c" data-eid="sec_27__hcontainer_1__list_1__item_c">
-                                                                                                                                                                                                                                                  <span class="akn-num">(c)</span>
-                                                                                                                                                                                                                                                  <span class="akn-p">in the case of dogs, a <span class="akn-term term-link" data-refersto="#term-dog" id="sec_27__hcontainer_1__list_1__item_c__term_1" data-eid="sec_27__hcontainer_1__list_1__item_c__term_1" data-original-title="" title="">dog</span> kennel of moulded fibre cement or other similar material which is movable and placed on a base constructed of concrete or other durable material with an easily cleaned finish, without cracks or open joints, may be provided instead of a shelter contemplated in paragraph (b) and if the base of such kennel is not rendered waterproof, a raised sleeping board which will enable the <span class="akn-term term-link" data-refersto="#term-dog" id="sec_27__hcontainer_1__list_1__item_c__term_2" data-eid="sec_27__hcontainer_1__list_1__item_c__term_2" data-original-title="" title="">dog</span> to keep dry shall be provided in every such kennel;</span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_d" data-eid="sec_27__hcontainer_1__list_1__item_d">
-                                                                                                                                                                                                                                                  <span class="akn-num">(d)</span>
-                                                                                                                                                                                                                                                  <span class="akn-p">a cencrete apron at least one metre wide shall be provided at the entrance of the enclosure over its full width, the apron to be graded to allow for the drainage of water away from the enclosure;</span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_e" data-eid="sec_27__hcontainer_1__list_1__item_e">
-                                                                                                                                                                                                                                                  <span class="akn-num">(e)</span>
-                                                                                                                                                                                                                                                  <span class="akn-p">a supply of potable water, adequate for drinking and cleaning purposes, shall be provided in or adjacent to every enclosure;</span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_f" data-eid="sec_27__hcontainer_1__list_1__item_f">
-                                                                                                                                                                                                                                                  <span class="akn-num">(f)</span>
-                                                                                                                                                                                                                                                  <span class="akn-p">separate isolation facilities for sick dogs and cats shall be provided to the satisfaction of the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_27__hcontainer_1__list_1__item_f__term_1" data-eid="sec_27__hcontainer_1__list_1__item_f__term_1" data-original-title="" title="">Council</span>;</span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                                <span class="akn-item" id="sec_27__hcontainer_1__list_1__item_g" data-eid="sec_27__hcontainer_1__list_1__item_g">
-                                                                                                                                                                                                                                                  <span class="akn-num">(g)</span>
-                                                                                                                                                                                                                                                  <span class="akn-p">if cages are provided for the keeping of cats, such cages shall be of durable, impervious material and constructed so as to be easily cleaned.</span>
-                                                                                                                                                                                                                                                </span>
-                                                                                                                                                                                                                                              </span>
-                                                                                                                                                                                                                                            </span>
-                                                                                                                                                                                                                                          </span></section><section class="akn-section" id="sec_28" data-eid="sec_28"><h3>28. Structures to be in proper state of repair and no alterations</h3>
-                                                                                                                                                                                                                                            <section class="akn-subsection" id="sec_28__subsec_1" data-eid="sec_28__subsec_1"><span class="akn-num">(1)</span><span class="akn-content">
-                                                                                                                                                                                                                                                <span class="akn-p">All structures shall be at all times be kept in a proper state of repair by the <span class="akn-term term-link" data-refersto="#term-owner" id="sec_28__subsec_1__term_1" data-eid="sec_28__subsec_1__term_1" data-original-title="" title="">owner</span> or occupier of the <span class="akn-term term-link" data-refersto="#term-premises" id="sec_28__subsec_1__term_2" data-eid="sec_28__subsec_1__term_2" data-original-title="" title="">premises</span>.</span>
-                                                                                                                                                                                                                                              </span></section><section class="akn-subsection" id="sec_28__subsec_2" data-eid="sec_28__subsec_2"><span class="akn-num">(2)</span><span class="akn-content">
-                                                                                                                                                                                                                                                  <span class="akn-p">No <span class="akn-term term-link" data-refersto="#term-person" id="sec_28__subsec_2__term_1" data-eid="sec_28__subsec_2__term_1" data-original-title="" title="">person</span> shall alter or use a <span class="akn-term term-link" data-refersto="#term-structure" id="sec_28__subsec_2__term_2" data-eid="sec_28__subsec_2__term_2" data-original-title="" title="">structure</span> for the keeping of animals or <span class="akn-term term-link" data-refersto="#term-poultry" id="sec_28__subsec_2__term_3" data-eid="sec_28__subsec_2__term_3" data-original-title="" title="">poultry</span> for purposes other than those specified in the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_28__subsec_2__term_4" data-eid="sec_28__subsec_2__term_4" data-original-title="" title="">permit</span>.</span>
-                                                                                                                                                                                                                                                </span></section></section><section class="akn-section" id="sec_29" data-eid="sec_29"><h3>29. Notices, amendments and cancellation of permits</h3>
-                                                                                                                                                                                                                                                  <section class="akn-subsection" id="sec_29__subsec_1" data-eid="sec_29__subsec_1"><span class="akn-num">(1)</span><span class="akn-content">
-                                                                                                                                                                                                                                                      <span class="akn-p">If, in the opinion of the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_1__term_1" data-eid="sec_29__subsec_1__term_1" data-original-title="" title="">Council</span>, any animals kept on the property in terms of which a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_1__term_2" data-eid="sec_29__subsec_1__term_2" data-original-title="" title="">permit</span> has been issued by the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_1__term_3" data-eid="sec_29__subsec_1__term_3" data-original-title="" title="">Council</span> under this By-law cause a <span class="akn-term term-link" data-refersto="#term-health_nuisance" id="sec_29__subsec_1__term_4" data-eid="sec_29__subsec_1__term_4" data-original-title="" title="">health nuisance</span>, danger to health or endanger the safety of the public or where more animals are kept than authorised in the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_1__term_5" data-eid="sec_29__subsec_1__term_5" data-original-title="" title="">permit</span> issued, the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_1__term_6" data-eid="sec_29__subsec_1__term_6" data-original-title="" title="">Council</span> may serve written notice on the holder of the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_1__term_7" data-eid="sec_29__subsec_1__term_7" data-original-title="" title="">permit</span>, or in his absence the <span class="akn-term term-link" data-refersto="#term-person" id="sec_29__subsec_1__term_8" data-eid="sec_29__subsec_1__term_8" data-original-title="" title="">person</span> in charge, to remove or cause to be removed such nuisance or danger or excess number of animals within a specified period.</span>
-                                                                                                                                                                                                                                                    </span></section><section class="akn-subsection" id="sec_29__subsec_2" data-eid="sec_29__subsec_2"><span class="akn-num">(2)</span><span class="akn-content">
-                                                                                                                                                                                                                                                        <span class="akn-blockList" id="sec_29__subsec_2__list_1" data-eid="sec_29__subsec_2__list_1">
-                                                                                                                                                                                                                                                          <span class="akn-listIntroduction">The holder of a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_2__list_1__term_1" data-eid="sec_29__subsec_2__list_1__term_1" data-original-title="" title="">permit</span> or the <span class="akn-term term-link" data-refersto="#term-person" id="sec_29__subsec_2__list_1__term_2" data-eid="sec_29__subsec_2__list_1__term_2" data-original-title="" title="">person</span> in charge, on receiving a notice in terms of subsection (1), shall comply with the requirements as specified by the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_2__list_1__term_3" data-eid="sec_29__subsec_2__list_1__term_3" data-original-title="" title="">Council</span> in such notice, failing which the <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_2__list_1__term_4" data-eid="sec_29__subsec_2__list_1__term_4" data-original-title="" title="">Council</span> may, at its discretion-</span>
-                                                                                                                                                                                                                                                          <span class="akn-item" id="sec_29__subsec_2__list_1__item_a" data-eid="sec_29__subsec_2__list_1__item_a">
-                                                                                                                                                                                                                                                            <span class="akn-num">(a)</span>
-                                                                                                                                                                                                                                                            <span class="akn-p">cancel the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_2__list_1__item_a__term_1" data-eid="sec_29__subsec_2__list_1__item_a__term_1" data-original-title="" title="">permit</span> to keep animals on such property, or</span>
-                                                                                                                                                                                                                                                          </span>
-                                                                                                                                                                                                                                                          <span class="akn-item" id="sec_29__subsec_2__list_1__item_b" data-eid="sec_29__subsec_2__list_1__item_b">
-                                                                                                                                                                                                                                                            <span class="akn-num">(b)</span>
-                                                                                                                                                                                                                                                            <span class="akn-p">amend the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_2__list_1__item_b__term_1" data-eid="sec_29__subsec_2__list_1__item_b__term_1" data-original-title="" title="">permit</span>.</span>
-                                                                                                                                                                                                                                                          </span>
-                                                                                                                                                                                                                                                        </span>
-                                                                                                                                                                                                                                                      </span></section><section class="akn-subsection" id="sec_29__subsec_3" data-eid="sec_29__subsec_3"><span class="akn-num">(3)</span><span class="akn-content">
-                                                                                                                                                                                                                                                          <span class="akn-p">The holder of a <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_3__term_1" data-eid="sec_29__subsec_3__term_1" data-original-title="" title="">permit</span> shall, when requested by <span class="akn-term term-link" data-refersto="#term-Council" id="sec_29__subsec_3__term_2" data-eid="sec_29__subsec_3__term_2" data-original-title="" title="">Council</span> to do so, return the <span class="akn-term term-link" data-refersto="#term-permit" id="sec_29__subsec_3__term_3" data-eid="sec_29__subsec_3__term_3" data-original-title="" title="">permit</span> issued to him for amendment or cancellation, as the case amy be.</span>
-                                                                                                                                                                                                                                                        </span></section></section><section class="akn-section" id="sec_30" data-eid="sec_30"><h3>30. Animals offered for sale</h3>
-                                                                                                                                                                                                                                                          <span class="akn-hcontainer" id="sec_30__hcontainer_1" data-eid="sec_30__hcontainer_1" data-name="hcontainer">
-                                                                                                                                                                                                                                                            <span class="akn-content">
-                                                                                                                                                                                                                                                              <span class="akn-p">A <span class="akn-term term-link" data-refersto="#term-person" id="sec_30__hcontainer_1__term_1" data-eid="sec_30__hcontainer_1__term_1" data-original-title="" title="">person</span> or manager of <span class="akn-term term-link" data-refersto="#term-premises" id="sec_30__hcontainer_1__term_2" data-eid="sec_30__hcontainer_1__term_2" data-original-title="" title="">premises</span> where dogs or cats our horses are offered for sale shall keep proper records of vaccination and shall not leave such animals unattended overnight.</span>
-                                                                                                                                                                                                                                                            </span>
-                                                                                                                                                                                                                                                          </span></section><section class="akn-section" id="sec_31" data-eid="sec_31"><h3>31. Fireworks</h3>
-                                                                                                                                                                                                                                                            <span class="akn-hcontainer" id="sec_31__hcontainer_1" data-eid="sec_31__hcontainer_1" data-name="hcontainer">
-                                                                                                                                                                                                                                                              <span class="akn-content">
-                                                                                                                                                                                                                                                                <span class="akn-p">No <span class="akn-term term-link" data-refersto="#term-person" id="sec_31__hcontainer_1__term_1" data-eid="sec_31__hcontainer_1__term_1" data-original-title="" title="">person</span> may terrify or cause stress to any <span class="akn-term term-link" data-refersto="#term-animal" id="sec_31__hcontainer_1__term_2" data-eid="sec_31__hcontainer_1__term_2" data-original-title="" title="">animal</span> with fireworks or by any other means.</span>
-                                                                                                                                                                                                                                                              </span>
-                                                                                                                                                                                                                                                            </span></section><section class="akn-section" id="sec_32" data-eid="sec_32"><h3>32. Animal cruelty</h3>
-                                                                                                                                                                                                                                                              <span class="akn-hcontainer" id="sec_32__hcontainer_1" data-eid="sec_32__hcontainer_1" data-name="hcontainer"><span class="akn-content"><span class="akn-blockList" id="sec_32__hcontainer_1__list_1" data-eid="sec_32__hcontainer_1__list_1"><span class="akn-listIntroduction">Any <span class="akn-term term-link" data-refersto="#term-person" id="sec_32__hcontainer_1__list_1__term_1" data-eid="sec_32__hcontainer_1__list_1__term_1" data-original-title="" title="">person</span> who -</span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_a" data-eid="sec_32__hcontainer_1__list_1__item_a"><span class="akn-num">(a)</span><span class="akn-p">possesses, keeps, imports, buys, sells, trains, breeds or has under his or her control an <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_a__term_1" data-eid="sec_32__hcontainer_1__list_1__item_a__term_1" data-original-title="" title="">animal</span> for the purpose of fighting any other <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_a__term_2" data-eid="sec_32__hcontainer_1__list_1__item_a__term_2" data-original-title="" title="">animal</span></span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_b" data-eid="sec_32__hcontainer_1__list_1__item_b"><span class="akn-num">(b)</span><span class="akn-p">baits, provokes or incites any <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_b__term_1" data-eid="sec_32__hcontainer_1__list_1__item_b__term_1" data-original-title="" title="">animal</span> to attack another <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_b__term_2" data-eid="sec_32__hcontainer_1__list_1__item_b__term_2" data-original-title="" title="">animal</span> or to proceed with the fighting of another <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_b__term_3" data-eid="sec_32__hcontainer_1__list_1__item_b__term_3" data-original-title="" title="">animal</span>;</span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_c" data-eid="sec_32__hcontainer_1__list_1__item_c"><span class="akn-num">(c)</span><span class="akn-p">for financial gain or as a form of amusement promotes <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_c__term_1" data-eid="sec_32__hcontainer_1__list_1__item_c__term_1" data-original-title="" title="">animal</span> fights;</span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_d" data-eid="sec_32__hcontainer_1__list_1__item_d"><span class="akn-num">(d)</span><span class="akn-p">allows any of the acts referred to in paragraph (a) and (c) to take place on any <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_d__term_1" data-eid="sec_32__hcontainer_1__list_1__item_d__term_1" data-original-title="" title="">premises</span> or place in his or her possession or under his or her charge of control;</span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_e" data-eid="sec_32__hcontainer_1__list_1__item_e"><span class="akn-num">(e)</span><span class="akn-p">owns, uses or controls any <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_e__term_1" data-eid="sec_32__hcontainer_1__list_1__item_e__term_1" data-original-title="" title="">premises</span> or place for the purpose or partly for the purpose of presenting <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_e__term_2" data-eid="sec_32__hcontainer_1__list_1__item_e__term_2" data-original-title="" title="">animal</span> fights on such <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_e__term_3" data-eid="sec_32__hcontainer_1__list_1__item_e__term_3" data-original-title="" title="">premises</span> or place or who acts or assists in the management of such <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_e__term_4" data-eid="sec_32__hcontainer_1__list_1__item_e__term_4" data-original-title="" title="">premises</span> or place, or who receives any consideration for the admission of any <span class="akn-term term-link" data-refersto="#term-person" id="sec_32__hcontainer_1__list_1__item_e__term_5" data-eid="sec_32__hcontainer_1__list_1__item_e__term_5" data-original-title="" title="">person</span> to such <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_e__term_6" data-eid="sec_32__hcontainer_1__list_1__item_e__term_6" data-original-title="" title="">premises</span> or place; or</span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_f" data-eid="sec_32__hcontainer_1__list_1__item_f"><span class="akn-num">(f)</span><span class="akn-p">is present as a spectator at any <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_f__term_1" data-eid="sec_32__hcontainer_1__list_1__item_f__term_1" data-original-title="" title="">premises</span> or place where any kind of the acts referred to in paragraph (b) to (e) is taking place or where preparations are being made for such acts,</span><span class="akn-p">is guilty of an offence and liable on conviction to a fine of R20 000.00 (twenty thousand rand) or to imprisonment for a period not exceeding two years;</span></span><span class="akn-item" id="sec_32__hcontainer_1__list_1__item_g" data-eid="sec_32__hcontainer_1__list_1__item_g"><span class="akn-num">(g)</span><span class="akn-p">in any prosecution it is presumed, unless the contrary is proved, that an <span class="akn-term term-link" data-refersto="#term-animal" id="sec_32__hcontainer_1__list_1__item_g__term_1" data-eid="sec_32__hcontainer_1__list_1__item_g__term_1" data-original-title="" title="">animal</span> that is found at any <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_g__term_2" data-eid="sec_32__hcontainer_1__list_1__item_g__term_2" data-original-title="" title="">premises</span> or place is the property or under the control of the <span class="akn-term term-link" data-refersto="#term-owner" id="sec_32__hcontainer_1__list_1__item_g__term_3" data-eid="sec_32__hcontainer_1__list_1__item_g__term_3" data-original-title="" title="">owner</span> of those <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_g__term_4" data-eid="sec_32__hcontainer_1__list_1__item_g__term_4" data-original-title="" title="">premises</span> or that place, or is the property or under the control of the <span class="akn-term term-link" data-refersto="#term-person" id="sec_32__hcontainer_1__list_1__item_g__term_5" data-eid="sec_32__hcontainer_1__list_1__item_g__term_5" data-original-title="" title="">person</span> who uses or is in control of the <span class="akn-term term-link" data-refersto="#term-premises" id="sec_32__hcontainer_1__list_1__item_g__term_6" data-eid="sec_32__hcontainer_1__list_1__item_g__term_6" data-original-title="" title="">premises</span> or place.</span></span></span></span></span></section></section>
-                                                                                                                                                                                            
+  <section class="akn-chapter" id="chp_5" data-eid="chp_5">
+    <h2>
+      Chapter 5<br />Animals and
+      <span
+        class="akn-term term-link"
+        data-refersto="#term-poultry"
+        id="chp_5__term_1"
+        data-eid="chp_5__term_1"
+        data-original-title=""
+        title=""
+        >poultry</span
+      >
+    </h2>
+    <section class="akn-section" id="sec_22" data-eid="sec_22">
+      <h3>
+        22. Animals and
+        <span
+          class="akn-term term-link"
+          data-refersto="#term-poultry"
+          id="sec_22__term_1"
+          data-eid="sec_22__term_1"
+          data-original-title=""
+          title=""
+          >poultry</span
+        >
+      </h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_22__hcontainer_1"
+        data-eid="sec_22__hcontainer_1"
+        data-name="hcontainer"
+      >
+        <span class="akn-content">
+          <span class="akn-p"
+            >In order to promote public health no
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-person"
+              id="sec_22__hcontainer_1__term_1"
+              data-eid="sec_22__hcontainer_1__term_1"
+              data-original-title=""
+              title=""
+              >person</span
+            >
+            shall keep or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_22__hcontainer_1__term_2"
+              data-eid="sec_22__hcontainer_1__term_2"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            to be kept on any
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_22__hcontainer_1__term_3"
+              data-eid="sec_22__hcontainer_1__term_3"
+              data-original-title=""
+              title=""
+              >premises</span
+            >
+            of property any
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-animal"
+              id="sec_22__hcontainer_1__term_4"
+              data-eid="sec_22__hcontainer_1__term_4"
+              data-original-title=""
+              title=""
+              >animal</span
+            >
+            or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_22__hcontainer_1__term_5"
+              data-eid="sec_22__hcontainer_1__term_5"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            without the permission of the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_22__hcontainer_1__term_6"
+              data-eid="sec_22__hcontainer_1__term_6"
+              data-original-title=""
+              title=""
+              >Council</span
+            >.</span
+          >
+        </span>
+      </span>
+    </section>
+    <section class="akn-section" id="sec_23" data-eid="sec_23">
+      <h3>23. Permits</h3>
+      <section
+        class="akn-subsection"
+        id="sec_23__subsec_1"
+        data-eid="sec_23__subsec_1"
+      >
+        <span class="akn-num">(1)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >For the purposes of promoting public health and restricting public
+            nuisances, the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_23__subsec_1__term_1"
+              data-eid="sec_23__subsec_1__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may from time to time determine the number if animals or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_23__subsec_1__term_2"
+              data-eid="sec_23__subsec_1__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            that may be kept per unit area and the areas within the which such
+            animals or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_23__subsec_1__term_3"
+              data-eid="sec_23__subsec_1__term_3"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            shall be prohibited.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_23__subsec_2"
+        data-eid="sec_23__subsec_2"
+      >
+        <span class="akn-num">(2)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >The
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_23__subsec_2__term_1"
+              data-eid="sec_23__subsec_2__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may from time to time, determine the kinds of animals and
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_23__subsec_2__term_2"
+              data-eid="sec_23__subsec_2__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            for which a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_23__subsec_2__term_3"
+              data-eid="sec_23__subsec_2__term_3"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            is required and the relevant application fee and annual fee for such
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_23__subsec_2__term_4"
+              data-eid="sec_23__subsec_2__term_4"
+              data-original-title=""
+              title=""
+              >permit</span
+            >. Applications for such permits must be made on the prescribed form
+            made available by the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_23__subsec_2__term_5"
+              data-eid="sec_23__subsec_2__term_5"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            for such purposes.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_23__subsec_3"
+        data-eid="sec_23__subsec_3"
+      >
+        <span class="akn-num">(3)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >Permits issued in terms hereof are not transferable and shall not
+            be valid for the specfic property in respect of which the
+            application was made.</span
+          >
+        </span>
+      </section>
+    </section>
+    <section class="akn-section" id="sec_24" data-eid="sec_24">
+      <h3>24.</h3>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_1"
+        data-eid="sec_24__subsec_1"
+      >
+        <span class="akn-num">(1)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >The
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_24__subsec_1__term_1"
+              data-eid="sec_24__subsec_1__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may require an application in terms of section 23 (1) to be
+            accompanied by a detailed site plan indicating all existing or
+            proposed structures and fences on the property for which a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_24__subsec_1__term_2"
+              data-eid="sec_24__subsec_1__term_2"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            is required.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_2"
+        data-eid="sec_24__subsec_2"
+      >
+        <span class="akn-num">(2)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >The
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_24__subsec_2__term_1"
+              data-eid="sec_24__subsec_2__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may require detailed plans and specifications of structures wherein
+            it is proposed to keep animals and
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_24__subsec_2__term_2"
+              data-eid="sec_24__subsec_2__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >, in order to evaluate whether or not to grant a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_24__subsec_2__term_3"
+              data-eid="sec_24__subsec_2__term_3"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            applied for in terms of section 23 (2).</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_3"
+        data-eid="sec_24__subsec_3"
+      >
+        <span class="akn-num">(3)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >Notwithstanding anything to the contrary contained in the By-law,
+            the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_24__subsec_3__term_1"
+              data-eid="sec_24__subsec_3__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may refuse to approve an application or grant approval subject to
+            specific conditions if, in its opinion, the property owing to its
+            location, siting or geographical features or size, is unsuitable for
+            the keeping of animals or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_24__subsec_3__term_2"
+              data-eid="sec_24__subsec_3__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >;</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_4"
+        data-eid="sec_24__subsec_4"
+      >
+        <span class="akn-num">(4)</span
+        ><span class="akn-content">
+          <span
+            class="akn-blockList"
+            id="sec_24__subsec_4__list_1"
+            data-eid="sec_24__subsec_4__list_1"
+          >
+            <span class="akn-listIntroduction"
+              >No
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-structure"
+                id="sec_24__subsec_4__list_1__term_1"
+                data-eid="sec_24__subsec_4__list_1__term_1"
+                data-original-title=""
+                title=""
+                >structure</span
+              >
+              that accommodates animals shall be sited-</span
+            >
+            <span
+              class="akn-item"
+              id="sec_24__subsec_4__list_1__item_a"
+              data-eid="sec_24__subsec_4__list_1__item_a"
+            >
+              <span class="akn-num">(a)</span>
+              <span class="akn-p"
+                >within one and half metres of any boundry of the erf which
+                abuts another residential erf;</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_24__subsec_4__list_1__item_b"
+              data-eid="sec_24__subsec_4__list_1__item_b"
+            >
+              <span class="akn-num">(b)</span>
+              <span class="akn-p"
+                >within six metre of any boundry of the erf which abuts any road
+                or public open space; and</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_24__subsec_4__list_1__item_c"
+              data-eid="sec_24__subsec_4__list_1__item_c"
+            >
+              <span class="akn-num">(c)</span>
+              <span class="akn-p"
+                >within four and half metres from any dwelling, servants
+                quarters, inhabited outbuilding and shop or building where food
+                is processed.</span
+              >
+            </span>
+          </span>
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_5"
+        data-eid="sec_24__subsec_5"
+      >
+        <span class="akn-num">(5)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >Where a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-structure"
+              id="sec_24__subsec_5__term_1"
+              data-eid="sec_24__subsec_5__term_1"
+              data-original-title=""
+              title=""
+              >structure</span
+            >
+            in which animals will be kept forms part of an outbuilding used for
+            human habitation, such
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-structure"
+              id="sec_24__subsec_5__term_2"
+              data-eid="sec_24__subsec_5__term_2"
+              data-original-title=""
+              title=""
+              >structure</span
+            >
+            must be sited at least four and half metres from such habitable room
+            and must not be under the same roof as the habitable room.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_6"
+        data-eid="sec_24__subsec_6"
+      >
+        <span class="akn-num">(6)</span
+        ><span class="akn-content">
+          <span
+            class="akn-blockList"
+            id="sec_24__subsec_6__list_1"
+            data-eid="sec_24__subsec_6__list_1"
+          >
+            <span class="akn-listIntroduction"
+              >No
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-structure"
+                id="sec_24__subsec_6__list_1__term_1"
+                data-eid="sec_24__subsec_6__list_1__term_1"
+                data-original-title=""
+                title=""
+                >structure</span
+              >
+              in which
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-poultry"
+                id="sec_24__subsec_6__list_1__term_2"
+                data-eid="sec_24__subsec_6__list_1__term_2"
+                data-original-title=""
+                title=""
+                >poultry</span
+              >
+              is kept shall be sited:</span
+            >
+            <span
+              class="akn-item"
+              id="sec_24__subsec_6__list_1__item_a"
+              data-eid="sec_24__subsec_6__list_1__item_a"
+            >
+              <span class="akn-num">(a)</span>
+              <span class="akn-p"
+                >within one and half metres from any boundry of a residential
+                erf; and</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_24__subsec_6__list_1__item_b"
+              data-eid="sec_24__subsec_6__list_1__item_b"
+            >
+              <span class="akn-num">(b)</span>
+              <span class="akn-p"
+                >within one and half metres from any dwelling, servants
+                quarters, inhabited outbuilding and shop pr building where food
+                is processed, sold or stored.</span
+              >
+            </span>
+          </span>
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_7"
+        data-eid="sec_24__subsec_7"
+      >
+        <span class="akn-num">(7)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >All structures in which animals or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_24__subsec_7__term_1"
+              data-eid="sec_24__subsec_7__term_1"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            are kept shall be suitably screened from any street to the
+            satisfaction of the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_24__subsec_7__term_2"
+              data-eid="sec_24__subsec_7__term_2"
+              data-original-title=""
+              title=""
+              >Council</span
+            >.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_8"
+        data-eid="sec_24__subsec_8"
+      >
+        <span class="akn-num">(8)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >No
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-structure"
+              id="sec_24__subsec_8__term_1"
+              data-eid="sec_24__subsec_8__term_1"
+              data-original-title=""
+              title=""
+              >structure</span
+            >
+            in which
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_24__subsec_8__term_2"
+              data-eid="sec_24__subsec_8__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            is kept shall have a height in excess of three and a half
+            metres.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_24__subsec_9"
+        data-eid="sec_24__subsec_9"
+      >
+        <span class="akn-num">(9)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >Notwithstanding the aforementioned provisions, the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_24__subsec_9__term_1"
+              data-eid="sec_24__subsec_9__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may, after considering conditions particular to the property and on
+            condition that no objection is received from adjoining and affected
+            neighbours, waive any or all of the requirements of this chapter and
+            impose other conditions if appropriate.</span
+          >
+        </span>
+      </section>
+    </section>
+    <section class="akn-section" id="sec_25" data-eid="sec_25">
+      <h3>25. Storage of feed and manure, disposal of carcasses</h3>
+      <section
+        class="akn-subsection"
+        id="sec_25__subsec_1"
+        data-eid="sec_25__subsec_1"
+      >
+        <span class="akn-num">(1)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >All manure resulting from the keeping of animals and
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_25__subsec_1__term_1"
+              data-eid="sec_25__subsec_1__term_1"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            shall, pending removal from the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_25__subsec_1__term_2"
+              data-eid="sec_25__subsec_1__term_2"
+              data-original-title=""
+              title=""
+              >premises</span
+            >, be stored under shelter in sealed fly-proof containers and
+            disposed of on a regular basis as to prevent any nuisance from being
+            created, provided that such disposal may not include composting on
+            the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_25__subsec_1__term_3"
+              data-eid="sec_25__subsec_1__term_3"
+              data-original-title=""
+              title=""
+              >premises</span
+            >, except on
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-agricultural_property"
+              id="sec_25__subsec_1__term_4"
+              data-eid="sec_25__subsec_1__term_4"
+              data-original-title=""
+              title=""
+              >agricultural property</span
+            >.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_25__subsec_2"
+        data-eid="sec_25__subsec_2"
+      >
+        <span class="akn-num">(2)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >All feed should be stored in a rodent proof place, container or
+            storeroom for the keeping of animals and
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_25__subsec_2__term_1"
+              data-eid="sec_25__subsec_2__term_1"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_25__subsec_3"
+        data-eid="sec_25__subsec_3"
+      >
+        <span class="akn-num">(3)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >The
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_25__subsec_3__term_1"
+              data-eid="sec_25__subsec_3__term_1"
+              data-original-title=""
+              title=""
+              >premises</span
+            >
+            for the keeping of animals and
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_25__subsec_3__term_2"
+              data-eid="sec_25__subsec_3__term_2"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            shall be kept in such condition as not to attract or provide
+            harbourage for rodents.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_25__subsec_4"
+        data-eid="sec_25__subsec_4"
+      >
+        <span class="akn-num">(4)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >Carcasses are to be disposed of at the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-owner"
+              id="sec_25__subsec_4__term_1"
+              data-eid="sec_25__subsec_4__term_1"
+              data-original-title=""
+              title=""
+              >owner</span
+            >’s expense and in a manner approved by the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_25__subsec_4__term_2"
+              data-eid="sec_25__subsec_4__term_2"
+              data-original-title=""
+              title=""
+              >Council</span
+            >.</span
+          >
+        </span>
+      </section>
+    </section>
+    <section class="akn-section" id="sec_26" data-eid="sec_26">
+      <h3>26.</h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_26__hcontainer_1"
+        data-eid="sec_26__hcontainer_1"
+        data-name="hcontainer"
+      >
+        <span class="akn-content">
+          <span class="akn-p"
+            >The
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_26__hcontainer_1__term_1"
+              data-eid="sec_26__hcontainer_1__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may from time to time determine that a fly and rodent proof manure
+            store and feed store of adequate size and constructed of permanent
+            material, is required on
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_26__hcontainer_1__term_2"
+              data-eid="sec_26__hcontainer_1__term_2"
+              data-original-title=""
+              title=""
+              >premises</span
+            >
+            where animals are kept.</span
+          >
+        </span>
+      </span>
+    </section>
+    <section class="akn-section" id="sec_27" data-eid="sec_27">
+      <h3>27. Kennels and catteries</h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_27__hcontainer_1"
+        data-eid="sec_27__hcontainer_1"
+        data-name="hcontainer"
+      >
+        <span class="akn-content">
+          <span
+            class="akn-blockList"
+            id="sec_27__hcontainer_1__list_1"
+            data-eid="sec_27__hcontainer_1__list_1"
+          >
+            <span class="akn-listIntroduction"
+              >No
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-person"
+                id="sec_27__hcontainer_1__list_1__term_1"
+                data-eid="sec_27__hcontainer_1__list_1__term_1"
+                data-original-title=""
+                title=""
+                >person</span
+              >
+              shall keep a kennel or
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-cattery"
+                id="sec_27__hcontainer_1__list_1__term_2"
+                data-eid="sec_27__hcontainer_1__list_1__term_2"
+                data-original-title=""
+                title=""
+                >cattery</span
+              >
+              unless the following requirements are complied with a
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-permit"
+                id="sec_27__hcontainer_1__list_1__term_3"
+                data-eid="sec_27__hcontainer_1__list_1__term_3"
+                data-original-title=""
+                title=""
+                >permit</span
+              >
+              has been obtained from the
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-Council"
+                id="sec_27__hcontainer_1__list_1__term_4"
+                data-eid="sec_27__hcontainer_1__list_1__term_4"
+                data-original-title=""
+                title=""
+                >Council</span
+              >:</span
+            >
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_a"
+              data-eid="sec_27__hcontainer_1__list_1__item_a"
+            >
+              <span class="akn-num">(a)</span>
+              <span
+                class="akn-blockList"
+                id="sec_27__hcontainer_1__list_1__item_a__list_1"
+                data-eid="sec_27__hcontainer_1__list_1__item_a__list_1"
+              >
+                <span class="akn-listIntroduction"
+                  >Dogs and cats are kept in separate enclosures-</span
+                >
+                <span
+                  class="akn-item"
+                  id="sec_27__hcontainer_1__list_1__item_a__list_1__item_i"
+                  data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_i"
+                >
+                  <span class="akn-num">(i)</span>
+                  <span class="akn-p"
+                    >constructed of durable materials and with adequate access
+                    for cleaning, disinfecting and devermination purposes;</span
+                  >
+                </span>
+                <span
+                  class="akn-item"
+                  id="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii"
+                  data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii"
+                >
+                  <span class="akn-num">(ii)</span>
+                  <span class="akn-p"
+                    >with a floor constructed with concrete or other durable and
+                    impervious material brought to a smooth finish and graded to
+                    a channel one hundred millimetres wide, extending over the
+                    full width of the floor and situated within the enclosure,
+                    which channel shall drain into a gully connected to the
+                    <span
+                      class="akn-term term-link"
+                      data-refersto="#term-Council"
+                      id="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii__term_1"
+                      data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_ii__term_1"
+                      data-original-title=""
+                      title=""
+                      >Council</span
+                    >
+                    sewer system by means of a pipe approved material with a
+                    minimum diameter of one hundred millimetres or to another
+                    approved disposal system;</span
+                  >
+                </span>
+                <span
+                  class="akn-item"
+                  id="sec_27__hcontainer_1__list_1__item_a__list_1__item_iii"
+                  data-eid="sec_27__hcontainer_1__list_1__item_a__list_1__item_iii"
+                >
+                  <span class="akn-num">(iii)</span>
+                  <span class="akn-p"
+                    >with a kerb one hundred and fifty millimetres high along
+                    the entire length of the channel referred to in subparagraph
+                    (ii), to prevent stormwater from such area from entering the
+                    channel;</span
+                  >
+                </span>
+              </span>
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_b"
+              data-eid="sec_27__hcontainer_1__list_1__item_b"
+            >
+              <span class="akn-num">(b)</span>
+              <span
+                class="akn-blockList"
+                id="sec_27__hcontainer_1__list_1__item_b__list_1"
+                data-eid="sec_27__hcontainer_1__list_1__item_b__list_1"
+              >
+                <span class="akn-listIntroduction"
+                  >every enclosure referred to in paragraph (a) shall contain a
+                  roofed shelter for the accommodation of dogs and cats of which
+                  –</span
+                >
+                <span
+                  class="akn-item"
+                  id="sec_27__hcontainer_1__list_1__item_b__list_1__item_i"
+                  data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_i"
+                >
+                  <span class="akn-num">(i)</span>
+                  <span class="akn-p"
+                    >every wall shall be constructed of brick, stone, concrete
+                    or other durable material and shall have a smooth internal
+                    surface without cracks or open joints: and</span
+                  >
+                </span>
+                <span
+                  class="akn-item"
+                  id="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii"
+                  data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii"
+                >
+                  <span class="akn-num">(ii)</span>
+                  <span class="akn-p"
+                    >the floor shall be on concrete or other impervious and
+                    durable material brought to a smooth finish without cracks
+                    or open joints and the surface between the floor and the
+                    walls of a permanent
+                    <span
+                      class="akn-term term-link"
+                      data-refersto="#term-structure"
+                      id="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii__term_1"
+                      data-eid="sec_27__hcontainer_1__list_1__item_b__list_1__item_ii__term_1"
+                      data-original-title=""
+                      title=""
+                      >structure</span
+                    >
+                    shall be covered.</span
+                  >
+                </span>
+              </span>
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_c"
+              data-eid="sec_27__hcontainer_1__list_1__item_c"
+            >
+              <span class="akn-num">(c)</span>
+              <span class="akn-p"
+                >in the case of dogs, a
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-dog"
+                  id="sec_27__hcontainer_1__list_1__item_c__term_1"
+                  data-eid="sec_27__hcontainer_1__list_1__item_c__term_1"
+                  data-original-title=""
+                  title=""
+                  >dog</span
+                >
+                kennel of moulded fibre cement or other similar material which
+                is movable and placed on a base constructed of concrete or other
+                durable material with an easily cleaned finish, without cracks
+                or open joints, may be provided instead of a shelter
+                contemplated in paragraph (b) and if the base of such kennel is
+                not rendered waterproof, a raised sleeping board which will
+                enable the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-dog"
+                  id="sec_27__hcontainer_1__list_1__item_c__term_2"
+                  data-eid="sec_27__hcontainer_1__list_1__item_c__term_2"
+                  data-original-title=""
+                  title=""
+                  >dog</span
+                >
+                to keep dry shall be provided in every such kennel;</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_d"
+              data-eid="sec_27__hcontainer_1__list_1__item_d"
+            >
+              <span class="akn-num">(d)</span>
+              <span class="akn-p"
+                >a cencrete apron at least one metre wide shall be provided at
+                the entrance of the enclosure over its full width, the apron to
+                be graded to allow for the drainage of water away from the
+                enclosure;</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_e"
+              data-eid="sec_27__hcontainer_1__list_1__item_e"
+            >
+              <span class="akn-num">(e)</span>
+              <span class="akn-p"
+                >a supply of potable water, adequate for drinking and cleaning
+                purposes, shall be provided in or adjacent to every
+                enclosure;</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_f"
+              data-eid="sec_27__hcontainer_1__list_1__item_f"
+            >
+              <span class="akn-num">(f)</span>
+              <span class="akn-p"
+                >separate isolation facilities for sick dogs and cats shall be
+                provided to the satisfaction of the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-Council"
+                  id="sec_27__hcontainer_1__list_1__item_f__term_1"
+                  data-eid="sec_27__hcontainer_1__list_1__item_f__term_1"
+                  data-original-title=""
+                  title=""
+                  >Council</span
+                >;</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_27__hcontainer_1__list_1__item_g"
+              data-eid="sec_27__hcontainer_1__list_1__item_g"
+            >
+              <span class="akn-num">(g)</span>
+              <span class="akn-p"
+                >if cages are provided for the keeping of cats, such cages shall
+                be of durable, impervious material and constructed so as to be
+                easily cleaned.</span
+              >
+            </span>
+          </span>
+        </span>
+      </span>
+    </section>
+    <section class="akn-section" id="sec_28" data-eid="sec_28">
+      <h3>28. Structures to be in proper state of repair and no alterations</h3>
+      <section
+        class="akn-subsection"
+        id="sec_28__subsec_1"
+        data-eid="sec_28__subsec_1"
+      >
+        <span class="akn-num">(1)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >All structures shall be at all times be kept in a proper state of
+            repair by the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-owner"
+              id="sec_28__subsec_1__term_1"
+              data-eid="sec_28__subsec_1__term_1"
+              data-original-title=""
+              title=""
+              >owner</span
+            >
+            or occupier of the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_28__subsec_1__term_2"
+              data-eid="sec_28__subsec_1__term_2"
+              data-original-title=""
+              title=""
+              >premises</span
+            >.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_28__subsec_2"
+        data-eid="sec_28__subsec_2"
+      >
+        <span class="akn-num">(2)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >No
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-person"
+              id="sec_28__subsec_2__term_1"
+              data-eid="sec_28__subsec_2__term_1"
+              data-original-title=""
+              title=""
+              >person</span
+            >
+            shall alter or use a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-structure"
+              id="sec_28__subsec_2__term_2"
+              data-eid="sec_28__subsec_2__term_2"
+              data-original-title=""
+              title=""
+              >structure</span
+            >
+            for the keeping of animals or
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-poultry"
+              id="sec_28__subsec_2__term_3"
+              data-eid="sec_28__subsec_2__term_3"
+              data-original-title=""
+              title=""
+              >poultry</span
+            >
+            for purposes other than those specified in the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_28__subsec_2__term_4"
+              data-eid="sec_28__subsec_2__term_4"
+              data-original-title=""
+              title=""
+              >permit</span
+            >.</span
+          >
+        </span>
+      </section>
+    </section>
+    <section class="akn-section" id="sec_29" data-eid="sec_29">
+      <h3>29. Notices, amendments and cancellation of permits</h3>
+      <section
+        class="akn-subsection"
+        id="sec_29__subsec_1"
+        data-eid="sec_29__subsec_1"
+      >
+        <span class="akn-num">(1)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >If, in the opinion of the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_29__subsec_1__term_1"
+              data-eid="sec_29__subsec_1__term_1"
+              data-original-title=""
+              title=""
+              >Council</span
+            >, any animals kept on the property in terms of which a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_29__subsec_1__term_2"
+              data-eid="sec_29__subsec_1__term_2"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            has been issued by the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_29__subsec_1__term_3"
+              data-eid="sec_29__subsec_1__term_3"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            under this By-law cause a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-health_nuisance"
+              id="sec_29__subsec_1__term_4"
+              data-eid="sec_29__subsec_1__term_4"
+              data-original-title=""
+              title=""
+              >health nuisance</span
+            >, danger to health or endanger the safety of the public or where
+            more animals are kept than authorised in the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_29__subsec_1__term_5"
+              data-eid="sec_29__subsec_1__term_5"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            issued, the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_29__subsec_1__term_6"
+              data-eid="sec_29__subsec_1__term_6"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            may serve written notice on the holder of the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_29__subsec_1__term_7"
+              data-eid="sec_29__subsec_1__term_7"
+              data-original-title=""
+              title=""
+              >permit</span
+            >, or in his absence the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-person"
+              id="sec_29__subsec_1__term_8"
+              data-eid="sec_29__subsec_1__term_8"
+              data-original-title=""
+              title=""
+              >person</span
+            >
+            in charge, to remove or cause to be removed such nuisance or danger
+            or excess number of animals within a specified period.</span
+          >
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_29__subsec_2"
+        data-eid="sec_29__subsec_2"
+      >
+        <span class="akn-num">(2)</span
+        ><span class="akn-content">
+          <span
+            class="akn-blockList"
+            id="sec_29__subsec_2__list_1"
+            data-eid="sec_29__subsec_2__list_1"
+          >
+            <span class="akn-listIntroduction"
+              >The holder of a
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-permit"
+                id="sec_29__subsec_2__list_1__term_1"
+                data-eid="sec_29__subsec_2__list_1__term_1"
+                data-original-title=""
+                title=""
+                >permit</span
+              >
+              or the
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-person"
+                id="sec_29__subsec_2__list_1__term_2"
+                data-eid="sec_29__subsec_2__list_1__term_2"
+                data-original-title=""
+                title=""
+                >person</span
+              >
+              in charge, on receiving a notice in terms of subsection (1), shall
+              comply with the requirements as specified by the
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-Council"
+                id="sec_29__subsec_2__list_1__term_3"
+                data-eid="sec_29__subsec_2__list_1__term_3"
+                data-original-title=""
+                title=""
+                >Council</span
+              >
+              in such notice, failing which the
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-Council"
+                id="sec_29__subsec_2__list_1__term_4"
+                data-eid="sec_29__subsec_2__list_1__term_4"
+                data-original-title=""
+                title=""
+                >Council</span
+              >
+              may, at its discretion-</span
+            >
+            <span
+              class="akn-item"
+              id="sec_29__subsec_2__list_1__item_a"
+              data-eid="sec_29__subsec_2__list_1__item_a"
+            >
+              <span class="akn-num">(a)</span>
+              <span class="akn-p"
+                >cancel the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-permit"
+                  id="sec_29__subsec_2__list_1__item_a__term_1"
+                  data-eid="sec_29__subsec_2__list_1__item_a__term_1"
+                  data-original-title=""
+                  title=""
+                  >permit</span
+                >
+                to keep animals on such property, or</span
+              >
+            </span>
+            <span
+              class="akn-item"
+              id="sec_29__subsec_2__list_1__item_b"
+              data-eid="sec_29__subsec_2__list_1__item_b"
+            >
+              <span class="akn-num">(b)</span>
+              <span class="akn-p"
+                >amend the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-permit"
+                  id="sec_29__subsec_2__list_1__item_b__term_1"
+                  data-eid="sec_29__subsec_2__list_1__item_b__term_1"
+                  data-original-title=""
+                  title=""
+                  >permit</span
+                >.</span
+              >
+            </span>
+          </span>
+        </span>
+      </section>
+      <section
+        class="akn-subsection"
+        id="sec_29__subsec_3"
+        data-eid="sec_29__subsec_3"
+      >
+        <span class="akn-num">(3)</span
+        ><span class="akn-content">
+          <span class="akn-p"
+            >The holder of a
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_29__subsec_3__term_1"
+              data-eid="sec_29__subsec_3__term_1"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            shall, when requested by
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-Council"
+              id="sec_29__subsec_3__term_2"
+              data-eid="sec_29__subsec_3__term_2"
+              data-original-title=""
+              title=""
+              >Council</span
+            >
+            to do so, return the
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-permit"
+              id="sec_29__subsec_3__term_3"
+              data-eid="sec_29__subsec_3__term_3"
+              data-original-title=""
+              title=""
+              >permit</span
+            >
+            issued to him for amendment or cancellation, as the case amy
+            be.</span
+          >
+        </span>
+      </section>
+    </section>
+    <section class="akn-section" id="sec_30" data-eid="sec_30">
+      <h3>30. Animals offered for sale</h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_30__hcontainer_1"
+        data-eid="sec_30__hcontainer_1"
+        data-name="hcontainer"
+      >
+        <span class="akn-content">
+          <span class="akn-p"
+            >A
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-person"
+              id="sec_30__hcontainer_1__term_1"
+              data-eid="sec_30__hcontainer_1__term_1"
+              data-original-title=""
+              title=""
+              >person</span
+            >
+            or manager of
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-premises"
+              id="sec_30__hcontainer_1__term_2"
+              data-eid="sec_30__hcontainer_1__term_2"
+              data-original-title=""
+              title=""
+              >premises</span
+            >
+            where dogs or cats our horses are offered for sale shall keep proper
+            records of vaccination and shall not leave such animals unattended
+            overnight.</span
+          >
+        </span>
+      </span>
+    </section>
+    <section class="akn-section" id="sec_31" data-eid="sec_31">
+      <h3>31. Fireworks</h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_31__hcontainer_1"
+        data-eid="sec_31__hcontainer_1"
+        data-name="hcontainer"
+      >
+        <span class="akn-content">
+          <span class="akn-p"
+            >No
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-person"
+              id="sec_31__hcontainer_1__term_1"
+              data-eid="sec_31__hcontainer_1__term_1"
+              data-original-title=""
+              title=""
+              >person</span
+            >
+            may terrify or cause stress to any
+            <span
+              class="akn-term term-link"
+              data-refersto="#term-animal"
+              id="sec_31__hcontainer_1__term_2"
+              data-eid="sec_31__hcontainer_1__term_2"
+              data-original-title=""
+              title=""
+              >animal</span
+            >
+            with fireworks or by any other means.</span
+          >
+        </span>
+      </span>
+    </section>
+    <section class="akn-section" id="sec_32" data-eid="sec_32">
+      <h3>32. Animal cruelty</h3>
+      <span
+        class="akn-hcontainer"
+        id="sec_32__hcontainer_1"
+        data-eid="sec_32__hcontainer_1"
+        data-name="hcontainer"
+        ><span class="akn-content"
+          ><span
+            class="akn-blockList"
+            id="sec_32__hcontainer_1__list_1"
+            data-eid="sec_32__hcontainer_1__list_1"
+            ><span class="akn-listIntroduction"
+              >Any
+              <span
+                class="akn-term term-link"
+                data-refersto="#term-person"
+                id="sec_32__hcontainer_1__list_1__term_1"
+                data-eid="sec_32__hcontainer_1__list_1__term_1"
+                data-original-title=""
+                title=""
+                >person</span
+              >
+              who -</span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_a"
+              data-eid="sec_32__hcontainer_1__list_1__item_a"
+              ><span class="akn-num">(a)</span
+              ><span class="akn-p"
+                >possesses, keeps, imports, buys, sells, trains, breeds or has
+                under his or her control an
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_a__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_a__term_1"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                for the purpose of fighting any other
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_a__term_2"
+                  data-eid="sec_32__hcontainer_1__list_1__item_a__term_2"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                ></span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_b"
+              data-eid="sec_32__hcontainer_1__list_1__item_b"
+              ><span class="akn-num">(b)</span
+              ><span class="akn-p"
+                >baits, provokes or incites any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_b__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_b__term_1"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                to attack another
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_b__term_2"
+                  data-eid="sec_32__hcontainer_1__list_1__item_b__term_2"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                or to proceed with the fighting of another
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_b__term_3"
+                  data-eid="sec_32__hcontainer_1__list_1__item_b__term_3"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >;</span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_c"
+              data-eid="sec_32__hcontainer_1__list_1__item_c"
+              ><span class="akn-num">(c)</span
+              ><span class="akn-p"
+                >for financial gain or as a form of amusement promotes
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_c__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_c__term_1"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                fights;</span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_d"
+              data-eid="sec_32__hcontainer_1__list_1__item_d"
+              ><span class="akn-num">(d)</span
+              ><span class="akn-p"
+                >allows any of the acts referred to in paragraph (a) and (c) to
+                take place on any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_d__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_d__term_1"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place in his or her possession or under his or her charge of
+                control;</span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_e"
+              data-eid="sec_32__hcontainer_1__list_1__item_e"
+              ><span class="akn-num">(e)</span
+              ><span class="akn-p"
+                >owns, uses or controls any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_1"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place for the purpose or partly for the purpose of presenting
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_2"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_2"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                fights on such
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_3"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_3"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place or who acts or assists in the management of such
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_4"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_4"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place, or who receives any consideration for the admission of
+                any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-person"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_5"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_5"
+                  data-original-title=""
+                  title=""
+                  >person</span
+                >
+                to such
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_e__term_6"
+                  data-eid="sec_32__hcontainer_1__list_1__item_e__term_6"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place; or</span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_f"
+              data-eid="sec_32__hcontainer_1__list_1__item_f"
+              ><span class="akn-num">(f)</span
+              ><span class="akn-p"
+                >is present as a spectator at any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_f__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_f__term_1"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place where any kind of the acts referred to in paragraph (b)
+                to (e) is taking place or where preparations are being made for
+                such acts,</span
+              ><span class="akn-p"
+                >is guilty of an offence and liable on conviction to a fine of
+                R20 000.00 (twenty thousand rand) or to imprisonment for a
+                period not exceeding two years;</span
+              ></span
+            ><span
+              class="akn-item"
+              id="sec_32__hcontainer_1__list_1__item_g"
+              data-eid="sec_32__hcontainer_1__list_1__item_g"
+              ><span class="akn-num">(g)</span
+              ><span class="akn-p"
+                >in any prosecution it is presumed, unless the contrary is
+                proved, that an
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-animal"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_1"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_1"
+                  data-original-title=""
+                  title=""
+                  >animal</span
+                >
+                that is found at any
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_2"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_2"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place is the property or under the control of the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-owner"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_3"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_3"
+                  data-original-title=""
+                  title=""
+                  >owner</span
+                >
+                of those
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_4"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_4"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or that place, or is the property or under the control of the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-person"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_5"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_5"
+                  data-original-title=""
+                  title=""
+                  >person</span
+                >
+                who uses or is in control of the
+                <span
+                  class="akn-term term-link"
+                  data-refersto="#term-premises"
+                  id="sec_32__hcontainer_1__list_1__item_g__term_6"
+                  data-eid="sec_32__hcontainer_1__list_1__item_g__term_6"
+                  data-original-title=""
+                  title=""
+                  >premises</span
+                >
+                or place.</span
+              ></span
+            ></span
+          ></span
+        ></span
+      >
+    </section>
+  </section>
 </template>
 
 <script>
 export default {
-  name: 'Chapter5'
-}
+  name: "Chapter5",
+};
 </script>

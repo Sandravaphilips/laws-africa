@@ -207,6 +207,6 @@
 
 <script>
 export default {
-  name: 'Chapter7'
-}
+  name: "Chapter7",
+};
 </script>
