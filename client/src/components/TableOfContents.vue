@@ -52,6 +52,7 @@ export default {
 <style scoped>
 .chapter-content {
   margin: 40px 0;
+  font-weight: 700;
 }
 .preamble {
   margin-top: 40px;
@@ -99,6 +100,7 @@ ul {
 .content-children {
   margin: 20px;
   margin-left: 40px;
+  font-weight: 400;
 }
 a {
   text-decoration: none;
