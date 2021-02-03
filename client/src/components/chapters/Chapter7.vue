@@ -6,7 +6,7 @@
             Miscellaneous
         </h2>
         <section class="akn-section" id="sec_34" data-eid="sec_34">
-            <h3>34. Offences and penalties<h3>
+            <h3>34. Offences and penalties</h3>
             <section class="akn-subsection" id="sec_34__subsec_1" data-eid="sec_34__subsec_1">
                 <span class="akn-num">(1)</span>
                 <span class="akn-content">
