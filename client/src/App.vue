@@ -1,16 +1,19 @@
 <template>
   <div id="app">
     <TableOfContents v-bind:contentList="contentList" />
+    <Contents />
   </div>
 </template>
 
 <script>
-import TableOfContents from './components/TableOfContents.vue'
+import TableOfContents from './components/TableOfContents.vue';
+import Contents from "./components/Contents";
 
 export default {
   name: 'App',
   components: {
-    TableOfContents
+    TableOfContents,
+    Contents
   },
   data() {
     return {
@@ -22,12 +25,15 @@ export default {
 </script>
 
 <style>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  font-family: 'Lato', sans-serif;;
+  /* display: flex;
+  align-items: flex-start;
+  justify-content: space-between; */
 }
 </style>
